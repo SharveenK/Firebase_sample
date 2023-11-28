@@ -24,8 +24,6 @@ void main() async {
 
 class BotControllApp extends StatelessWidget {
   const BotControllApp({super.key});
-
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return RepositoryProvider(
