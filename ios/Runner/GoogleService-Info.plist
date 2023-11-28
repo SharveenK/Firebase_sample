@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAn23IlzuQsjenlqTl1qD94V2Dsu3t7Wuc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>84362351090</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.lionsbotremotecontroller</string>
+	<key>PROJECT_ID</key>
+	<string>lionsbotremotecontroller</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lionsbotremotecontroller.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:84362351090:ios:c174d3669ba95d7e89db6b</string>
+</dict>
+</plist>

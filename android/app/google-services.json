@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84362351090",
+    "project_id": "lionsbotremotecontroller",
+    "storage_bucket": "lionsbotremotecontroller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84362351090:android:d89ac584ce1ec29c89db6b",
+        "android_client_info": {
+          "package_name": "com.example.lionsbotremotecontroller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAizyX6HX8TEy1FKEI_xnzlxsa-2k7eBFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
